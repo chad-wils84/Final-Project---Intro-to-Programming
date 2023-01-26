@@ -1,0 +1,3 @@
+hammer,10.99,15
+screwdriver,7.99,20
+electrical scissors,20.99,10
